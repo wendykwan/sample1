@@ -8,3 +8,4 @@ From foo.
 From bar.
 From bar again.
 This is a line from wednesday.
+This is a line from Olive.
