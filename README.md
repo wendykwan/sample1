@@ -7,4 +7,4 @@ From bugFix.
 From foo.
 From bar.
 From bar again.
-
+This is a line from wednesday.
